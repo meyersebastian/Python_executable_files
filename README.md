@@ -4,6 +4,6 @@ En este repositorio muestro cómo crear archivos ejecutables de python con Tkint
 
 En este caso vamos a crear un programa de python que tome como input un archivo .csv, lo procese y exporte la información procesada y un gráfico descriptivo de la misma, utilizando Tkinter para crear una interfaz gráfica y PyInstaller para compilar el código y crear un arcivo ejecutable.
 
-
+El archivo Tkinter_PyInstaller_para_archivos_python_ejecutables.ipynb tiene los pasos a seguir, y el archivo data_processing.py tiene un archivo de modelo para el último paso del archivo anterior.
 
 
